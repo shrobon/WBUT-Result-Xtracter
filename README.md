@@ -24,10 +24,6 @@ OR
 
 *./php result.php*
 
-*Requires* : BeautifulSoup4 , requests modules for python
-
-*Test File* : result.py
-
 *Author* : Shrobon Biswas, Bhaskar Tiwari
 
 *Quick Debug* : Sometimes the show_results.php page is different for the even and odd sem results. So in that case , modify the link given in the code to make it work properly .
