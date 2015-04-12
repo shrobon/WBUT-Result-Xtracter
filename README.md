@@ -1,6 +1,6 @@
 #WBUT-Result-Xtracter (PHP)
 
-We all know what a big pain in the a** it is to see the WBUT results. We sit in front of the terminal entire day and yet are unable to see our results due to the sheer traffic .
+We all know what a big pain in the a** it is to see the WBUT results. We sit in front of the terminal entire day and yet are unable to see our results due to the sheer traffic.
 
 WBUT-Result-Xtracter is a simple PHP script that takes
 
@@ -12,13 +12,17 @@ WBUT-Result-Xtracter is a simple PHP script that takes
 
 as input and display the Name, Roll-no, Registration-No ans the SGPA of the students withing the range of (upper-limit & lower-limit)
 
-**Version 1.0** :
+**Version 1.1_PHP** :
 
 Worked with the 5th semester 2014.
 
 *Usage* : open the result.py in a text editor and modify the range function i.e range(lower_roll,upper_roll,sem) and run the script after navigating to the WBUT-Result-Xtracter directory
 
-*python result.py*
+*php result.php*
+
+OR
+
+*./php result.php*
 
 *Requires* : BeautifulSoup4 , requests modules for python
 
@@ -28,4 +32,3 @@ Worked with the 5th semester 2014.
 
 *Quick Debug* : Sometimes the show_results.php page is different for the even and odd sem results. So in that case , modify the link given in the code to make it work properly .
 change http://www.wbutech.net/show-result.php with the new link.
-
