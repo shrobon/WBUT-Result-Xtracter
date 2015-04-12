@@ -1,8 +1,8 @@
-#WBUT-Result-Xtracter
+#WBUT-Result-Xtracter (PHP)
 
 We all know what a big pain in the a** it is to see the WBUT results. We sit in front of the terminal entire day and yet are unable to see our results due to the sheer traffic .
 
-WBUT-Result-Xtracter is a simple python script that takes
+WBUT-Result-Xtracter is a simple PHP script that takes
 
 1.)Roll Number-lower limit
 
@@ -24,7 +24,7 @@ Worked with the 5th semester 2014.
 
 *Test File* : result.py
 
-*Author* : Shrobon Biswas
+*Author* : Shrobon Biswas, Bhaskar Tiwari
 
 *Quick Debug* : Sometimes the show_results.php page is different for the even and odd sem results. So in that case , modify the link given in the code to make it work properly .
 change http://www.wbutech.net/show-result.php with the new link.
