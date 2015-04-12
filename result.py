@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 __author__ = 'Shrobon'
 from re import search as find
 import requests

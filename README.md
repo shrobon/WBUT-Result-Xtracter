@@ -18,7 +18,7 @@ Worked with the 5th semester 2014.
 
 *Usage* : open the result.py in a text editor and modify the range function i.e range(lower_roll,upper_roll,sem) and run the script after navigating to the WBUT-Result-Xtracter directory
 
-*python result.py*
+*python result.py* OR './result.py*'
 
 *Requires* : BeautifulSoup4 , requests modules for python
 
@@ -28,4 +28,3 @@ Worked with the 5th semester 2014.
 
 *Quick Debug* : Sometimes the show_results.php page is different for the even and odd sem results. So in that case , modify the link given in the code to make it work properly .
 change http://www.wbutech.net/show-result.php with the new link.
-
